@@ -1,0 +1,6 @@
+,iso3c,iso2c,name,region,adminregion,incomeLevel,lendingType,capitalCity,longitude,latitude
+0,ABW,AW,Aruba,Latin America & Caribbean ,,High income,Not classified,Oranjestad,-70.0167,12.5167
+1,AFG,AF,Afghanistan,South Asia,South Asia,Low income,IDA,Kabul,69.1761,34.5228
+2,AFR,A9,Africa,Aggregates,,Aggregates,Aggregates,,,
+3,AGO,AO,Angola,Sub-Saharan Africa ,Sub-Saharan Africa (excluding high income),Lower middle income,IBRD,Luanda,13.242,-8.81155
+4,ALB,AL,Albania,Europe & Central Asia,Europe & Central Asia (excluding high income),Upper middle income,IBRD,Tirane,19.8172,41.3317
