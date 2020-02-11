@@ -1,0 +1,196 @@
+,countries,const_form,head_of_state
+0,Afghanistan,Republic,Executive
+1,Albania,Republic,Ceremonial
+2,Algeria,Republic,Executive
+3,Andorra,Constitutional monarchy,Ceremonial
+4,Angola,Republic,Executive
+5,Antigua and Barbuda,Constitutional monarchy,Ceremonial
+6,Argentina,Republic,Executive
+7,Armenia,Republic,Ceremonial
+8,Australia,Constitutional monarchy,Ceremonial
+9,Austria,Republic,Ceremonial
+10,Azerbaijan,Republic,Executive
+11,"Bahamas, The",Constitutional monarchy,Ceremonial
+12,Bahrain,Constitutional monarchy,Executive
+13,Bangladesh,Republic,Ceremonial
+14,Barbados,Constitutional monarchy,Ceremonial
+15,Belarus,Republic,Executive
+16,Belgium,Constitutional monarchy,Ceremonial
+17,Belize,Constitutional monarchy,Ceremonial
+18,Benin,Republic,Executive
+19,Bhutan,Constitutional monarchy,Executive
+20,Bolivia,Republic,Executive
+21,Bosnia and Herzegovina,Republic,Ceremonial
+22,Botswana,Republic,Executive
+23,Brazil,Republic,Executive
+24,Brunei,Absolute monarchy,Executive
+25,Bulgaria,Republic,Ceremonial
+26,Burkina Faso,Republic,Executive
+27,Burundi,Republic,Executive
+28,Cambodia,Constitutional monarchy,Ceremonial
+29,Cameroon,Republic,Executive
+30,Canada,Constitutional monarchy,Ceremonial
+31,Cape Verde,Republic,Executive
+32,Central African Republic,Republic,Executive
+33,Chad,Republic,Executive
+34,Chile,Republic,Executive
+35,"China, People's Republic of",Republic,Executive
+36,Colombia,Republic,Executive
+37,Comoros,Republic,Executive
+38,"Congo, Democratic Republic of the",Republic,Executive
+39,"Congo, Republic of the",Republic,Executive
+40,Costa Rica,Republic,Executive
+41,Côte d'Ivoire,Republic,Executive
+42,Croatia,Republic,Ceremonial
+43,Cuba,Republic,Executive
+44,Cyprus,Republic,Executive
+45,Czech Republic,Republic,Ceremonial
+46,Denmark,Constitutional monarchy,Ceremonial
+47,Djibouti,Republic,Executive
+48,Dominica,Republic,Ceremonial
+49,Dominican Republic,Republic,Executive
+50,East Timor,Republic,Executive
+51,Ecuador,Republic,Executive
+52,Egypt,Republic,Executive
+53,El Salvador,Republic,Executive
+54,Equatorial Guinea,Republic,Executive
+55,Eritrea,Republic,Executive
+56,Estonia,Republic,Ceremonial
+57,Eswatini,Absolute monarchy,Executive
+58,Ethiopia,Republic,Ceremonial
+59,Federated States of Micronesia,Republic,Executive
+60,Fiji,Republic,Ceremonial
+61,Finland,Republic,Ceremonial
+62,France,Republic,Executive
+63,Gabon,Republic,Executive
+64,"Gambia, The",Republic,Executive
+65,Georgia,Republic,Ceremonial
+66,Germany,Republic,Ceremonial
+67,Ghana,Republic,Executive
+68,Greece,Republic,Ceremonial
+69,Grenada,Constitutional monarchy,Ceremonial
+70,Guatemala,Republic,Executive
+71,Guinea,Republic,Executive
+72,Guinea-Bissau,Republic,Executive
+73,Guyana,Republic,Executive
+74,Haiti,Republic,Executive
+75,Honduras,Republic,Executive
+76,Hungary,Republic,Ceremonial
+77,Iceland,Republic,Ceremonial
+78,India,Republic,Ceremonial
+79,Indonesia,Republic,Executive
+80,Iran,Republic,Executive
+81,Iraq,Republic,Ceremonial
+82,Ireland,Republic,Ceremonial
+83,Israel,Republic,Ceremonial
+84,Italy,Republic,Ceremonial
+85,Jamaica,Constitutional monarchy,Ceremonial
+86,Japan,Constitutional monarchy,Ceremonial
+87,Jordan,Constitutional monarchy,Executive
+88,Kazakhstan,Republic,Executive
+89,Kenya,Republic,Executive
+90,Kiribati,Republic,Executive
+91,"Korea, North",Republic,Executive
+92,"Korea, South",Republic,Executive
+93,Kuwait,Constitutional monarchy,Executive
+94,Kyrgyzstan,Republic,Ceremonial
+95,Laos,Republic,Executive
+96,Latvia,Republic,Ceremonial
+97,Lebanon,Republic,Ceremonial
+98,Lesotho,Constitutional monarchy,Ceremonial
+99,Liberia,Republic,Executive
+100,Libya,n/a,n/a
+101,Liechtenstein,Constitutional monarchy,Executive
+102,Lithuania,Republic,Executive
+103,Luxembourg,Constitutional monarchy,Ceremonial
+104,Madagascar,Republic,Executive
+105,Malawi,Republic,Executive
+106,Malaysia,Constitutional monarchy,Ceremonial
+107,Maldives,Republic,Executive
+108,Mali,Republic,Executive
+109,Malta,Republic,Ceremonial
+110,Marshall Islands,Republic,Executive
+111,Mauritania,Republic,Executive
+112,Mauritius,Republic,Ceremonial
+113,Mexico,Republic,Executive
+114,Moldova,Republic,Ceremonial
+115,Monaco,Constitutional monarchy,Executive
+116,Mongolia,Republic,Executive
+117,Montenegro,Republic,Ceremonial
+118,Morocco,Constitutional monarchy,Executive
+119,Mozambique,Republic,Executive
+120,Myanmar,Republic,Executive
+121,Namibia,Republic,Executive
+122,Nauru,Republic,Executive
+123,Nepal,Republic,Ceremonial
+124,Netherlands,Constitutional monarchy,Ceremonial
+125,New Zealand,Constitutional monarchy,Ceremonial
+126,Nicaragua,Republic,Executive
+127,Niger,Republic,Executive
+128,Nigeria,Republic,Executive
+129,North Macedonia,Republic,Ceremonial
+130,Norway,Constitutional monarchy,Ceremonial
+131,Oman,Absolute monarchy,Executive
+132,Pakistan,Republic,Ceremonial
+133,Palau,Republic,Executive
+134,Palestine,Republic,Executive
+135,Panama,Republic,Executive
+136,Papua New Guinea,Constitutional monarchy,Ceremonial
+137,Paraguay,Republic,Executive
+138,Peru,Republic,Executive
+139,Philippines,Republic,Executive
+140,Poland,Republic,Executive
+141,Portugal,Republic,Executive
+142,Qatar,Absolute monarchy,Executive
+143,Romania,Republic,Executive
+144,Russia,Republic,Executive
+145,Rwanda,Republic,Executive
+146,Saint Kitts and Nevis,Constitutional monarchy,Ceremonial
+147,Saint Lucia,Constitutional monarchy,Ceremonial
+148,Saint Vincent and the Grenadines,Constitutional monarchy,Ceremonial
+149,Samoa,Republic,Ceremonial
+150,San Marino,Republic,Executive
+151,São Tomé and Príncipe,Republic,Executive
+152,Saudi Arabia,Absolute monarchy,Executive
+153,Senegal,Republic,Executive
+154,Serbia,Republic,Ceremonial
+155,Seychelles,Republic,Executive
+156,Sierra Leone,Republic,Executive
+157,Singapore,Republic,Ceremonial
+158,Slovakia,Republic,Ceremonial
+159,Slovenia,Republic,Ceremonial
+160,Solomon Islands,Constitutional monarchy,Ceremonial
+161,Somalia,Republic,Ceremonial
+162,South Africa,Republic,Executive
+163,South Sudan,Republic,Executive
+164,Spain,Constitutional monarchy,Ceremonial
+165,Sri Lanka,Republic,Executive
+166,Sudan,Republic,Executive
+167,Suriname,Republic,Executive
+168,Sweden,Constitutional monarchy,Ceremonial
+169,Switzerland,Republic,Executive
+170,Syria,Republic,Executive
+171,Tajikistan,Republic,Executive
+172,Tanzania,Republic,Executive
+173,Thailand,Constitutional monarchy,Executive
+174,Togo,Republic,Executive
+175,Tonga,Constitutional monarchy,Executive
+176,Trinidad and Tobago,Republic,Ceremonial
+177,Tunisia,Republic,Executive
+178,Turkey,Republic,Executive
+179,Turkmenistan,Republic,Executive
+180,Tuvalu,Constitutional monarchy,Ceremonial
+181,Uganda,Republic,Executive
+182,Ukraine,Republic,Executive
+183,United Arab Emirates,Absolute monarchy,Executive
+184,United Kingdom,Constitutional monarchy,Ceremonial
+185,United States,Republic,Executive
+186,Uruguay,Republic,Executive
+187,Uzbekistan,Republic,Executive
+188,Vanuatu,Republic,Ceremonial
+189,Vatican City,Absolute monarchy,Executive
+190,Venezuela,Republic,Executive
+191,Vietnam,Republic,Executive
+192,Yemen,n/a,n/a
+193,Zambia,Republic,Executive
+194,Zimbabwe,Republic,Executive
