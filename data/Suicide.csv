@@ -32,6 +32,7 @@ Middle East & North Africa (excluding high income),2016,2.51870734704792,5.27741
 Middle East & North Africa (IDA & IBRD countries),2016,2.51870734704792,5.277410972121,3.92944110699236
 Middle income,2016,8.18017229754769,12.4968253269276,10.3741855904951
 North America,2016,7.17993593297536,23.0458755996377,15.0185079062224
+Not classified,2016,,,
 OECD members,2016,7.0396347369171,20.0420912702035,13.4315462590515
 Other small states,2016,5.53209980503487,12.2018459711708,9.06934698210315
 Pacific island small states,2016,2.72106669198255,8.18260625873346,5.4966503144099
@@ -48,10 +49,13 @@ World,2016,7.71129757350415,13.5057595189264,10.6396274578633
 Afghanistan,2016,1.5,7.6,4.7
 Albania,2016,4.7,7.9,6.3
 Algeria,2016,1.7,4.7,3.2
+American Samoa,2016,,,
+Andorra,2016,,,
 Angola,2016,2.5,7.0,4.7
 Antigua and Barbuda,2016,0.9,0.0,0.5
 Argentina,2016,3.5,15.1,9.2
 Armenia,2016,2.8,10.8,6.6
+Aruba,2016,,,
 Australia,2016,7.0,19.5,13.2
 Austria,2016,7.7,23.9,15.6
 Azerbaijan,2016,1.1,4.2,2.6
@@ -63,11 +67,13 @@ Belarus,2016,8.2,46.9,26.2
 Belgium,2016,13.8,27.8,20.7
 Belize,2016,1.6,7.9,4.7
 Benin,2016,5.9,13.9,9.9
+Bermuda,2016,,,
 Bhutan,2016,8.5,14.0,11.4
 Bolivia,2016,8.6,15.8,12.2
 Bosnia and Herzegovina,2016,3.6,14.1,8.8
 Botswana,2016,4.5,14.2,9.3
 Brazil,2016,3.1,10.0,6.5
+British Virgin Islands,2016,,,
 Brunei Darussalam,2016,2.7,6.4,4.6
 Bulgaria,2016,5.1,18.2,11.5
 Burkina Faso,2016,5.3,10.2,7.7
@@ -76,8 +82,10 @@ Cabo Verde,2016,6.1,16.5,11.3
 Cambodia,2016,2.9,7.8,5.3
 Cameroon,2016,7.4,17.1,12.2
 Canada,2016,7.0,18.1,12.5
+Cayman Islands,2016,,,
 Central African Republic,2016,4.0,11.5,7.7
 Chad,2016,7.4,10.3,8.8
+Channel Islands,2016,,,
 Chile,2016,4.0,17.2,10.6
 China,2016,10.3,9.1,9.7
 Colombia,2016,2.8,11.6,7.2
@@ -88,10 +96,12 @@ Costa Rica,2016,2.4,13.5,7.9
 Cote d'Ivoire,2016,8.3,20.6,14.5
 Croatia,2016,7.9,25.6,16.5
 Cuba,2016,5.8,22.1,13.9
+Curacao,2016,,,
 Cyprus,2016,2.3,8.2,5.3
 Czech Republic,2016,5.1,21.4,13.1
 Denmark,2016,8.2,17.3,12.8
 Djibouti,2016,4.3,9.0,6.7
+Dominica,2016,,,
 Dominican Republic,2016,3.1,16.8,9.9
 Ecuador,2016,3.9,10.3,7.1
 "Egypt, Arab Rep.",2016,1.5,6.4,4.0
@@ -101,22 +111,28 @@ Eritrea,2016,3.6,12.3,7.9
 Estonia,2016,6.6,30.6,17.8
 Eswatini,2016,7.5,19.5,13.3
 Ethiopia,2016,3.1,11.2,7.2
+Faroe Islands,2016,,,
 Fiji,2016,2.4,7.5,5.0
 Finland,2016,8.1,23.9,15.9
 France,2016,11.7,23.9,17.7
+French Polynesia,2016,,,
 Gabon,2016,3.2,10.7,7.1
 "Gambia, The",2016,3.7,6.6,5.1
 Georgia,2016,2.7,14.2,8.2
 Germany,2016,7.7,19.7,13.6
 Ghana,2016,2.1,8.7,5.4
+Gibraltar,2016,,,
 Greece,2016,2.0,8.1,5.0
+Greenland,2016,,,
 Grenada,2016,1.9,1.5,1.7
+Guam,2016,,,
 Guatemala,2016,1.8,3.7,2.7
 Guinea,2016,5.0,7.5,6.3
 Guinea-Bissau,2016,3.3,4.7,4.0
 Guyana,2016,14.4,43.7,29.2
 Haiti,2016,6.5,17.0,11.7
 Honduras,2016,1.5,4.4,2.9
+"Hong Kong SAR, China",2016,,,
 Hungary,2016,9.6,29.7,19.1
 Iceland,2016,5.6,22.3,14.0
 India,2016,14.7,17.8,16.3
@@ -124,6 +140,7 @@ Indonesia,2016,2.0,4.8,3.4
 "Iran, Islamic Rep.",2016,3.1,5.0,4.1
 Iraq,2016,2.6,3.4,3.0
 Ireland,2016,4.6,18.5,11.5
+Isle of Man,2016,,,
 Israel,2016,2.7,8.1,5.4
 Italy,2016,4.5,12.1,8.2
 Jamaica,2016,1.0,3.3,2.2
@@ -134,6 +151,7 @@ Kenya,2016,1.2,5.1,3.2
 Kiribati,2016,5.0,24.1,14.4
 "Korea, Dem. People’s Rep.",2016,8.5,14.1,11.2
 "Korea, Rep.",2016,15.4,38.4,26.9
+Kosovo,2016,,,
 Kuwait,2016,1.7,2.8,2.3
 Kyrgyz Republic,2016,3.5,13.2,8.3
 Lao PDR,2016,5.7,11.4,8.6
@@ -142,35 +160,43 @@ Lebanon,2016,2.4,4.2,3.3
 Lesotho,2016,24.4,17.8,21.2
 Liberia,2016,6.6,7.1,6.8
 Libya,2016,2.2,8.1,5.2
+Liechtenstein,2016,,,
 Lithuania,2016,9.5,58.1,31.9
 Luxembourg,2016,8.3,18.6,13.5
+"Macao SAR, China",2016,,,
 Madagascar,2016,2.2,5.6,3.9
 Malawi,2016,1.6,5.8,3.7
 Malaysia,2016,3.2,7.8,5.5
 Maldives,2016,1.3,3.0,2.3
 Mali,2016,2.7,6.9,4.8
 Malta,2016,2.8,12.1,7.5
+Marshall Islands,2016,,,
 Mauritania,2016,2.2,6.6,4.4
 Mauritius,2016,2.4,13.3,7.8
 Mexico,2016,2.3,8.0,5.1
 "Micronesia, Fed. Sts.",2016,6.3,15.8,11.1
 Moldova,2016,4.7,27.9,15.9
+Monaco,2016,,,
 Mongolia,2016,3.5,22.6,13.0
 Montenegro,2016,5.3,15.4,10.3
 Morocco,2016,3.4,2.3,2.9
 Mozambique,2016,2.5,7.4,4.9
 Myanmar,2016,9.5,5.9,7.8
 Namibia,2016,3.6,14.1,8.7
+Nauru,2016,,,
 Nepal,2016,7.9,9.7,8.8
 Netherlands,2016,9.0,16.2,12.6
+New Caledonia,2016,,,
 New Zealand,2016,6.6,17.9,12.1
 Nicaragua,2016,5.3,19.3,12.2
 Niger,2016,3.3,5.9,4.6
 Nigeria,2016,9.2,9.9,9.5
 North Macedonia,2016,3.9,11.9,7.9
+Northern Mariana Islands,2016,,,
 Norway,2016,8.4,15.9,12.2
 Oman,2016,0.8,5.6,3.9
 Pakistan,2016,3.0,2.7,2.9
+Palau,2016,,,
 Panama,2016,1.2,7.4,4.3
 Papua New Guinea,2016,3.3,8.6,6.0
 Paraguay,2016,6.5,12.4,9.5
@@ -178,11 +204,13 @@ Peru,2016,2.7,7.2,4.9
 Philippines,2016,2.0,4.3,3.2
 Poland,2016,4.3,28.9,16.2
 Portugal,2016,6.5,22.2,14.0
+Puerto Rico,2016,,,
 Qatar,2016,0.9,8.5,6.6
 Romania,2016,3.3,17.9,10.4
 Russian Federation,2016,9.4,55.9,31.0
 Rwanda,2016,3.8,9.7,6.7
 Samoa,2016,1.9,6.7,4.4
+San Marino,2016,,,
 Sao Tome and Principe,2016,1.6,3.0,2.3
 Saudi Arabia,2016,1.5,4.5,3.2
 Senegal,2016,2.9,9.3,6.0
@@ -190,6 +218,7 @@ Serbia,2016,8.1,23.5,15.6
 Seychelles,2016,2.4,16.4,9.3
 Sierra Leone,2016,8.1,11.3,9.7
 Singapore,2016,6.1,13.8,9.9
+Sint Maarten (Dutch part),2016,,,
 Slovak Republic,2016,3.5,22.7,12.8
 Slovenia,2016,6.9,30.4,18.6
 Solomon Islands,2016,2.6,6.8,4.7
@@ -198,7 +227,9 @@ South Africa,2016,4.7,18.7,11.6
 South Sudan,2016,2.6,4.9,3.7
 Spain,2016,4.5,13.1,8.7
 Sri Lanka,2016,6.4,23.5,14.6
+St. Kitts and Nevis,2016,,,
 St. Lucia,2016,2.2,13.5,7.8
+St. Martin (French part),2016,,,
 St. Vincent and the Grenadines,2016,0.9,3.9,2.4
 Sudan,2016,4.0,12.2,8.1
 Suriname,2016,10.9,34.7,22.8
@@ -215,6 +246,8 @@ Trinidad and Tobago,2016,4.5,23.0,13.6
 Tunisia,2016,2.3,4.4,3.4
 Turkey,2016,3.3,11.4,7.3
 Turkmenistan,2016,3.5,10.1,6.7
+Turks and Caicos Islands,2016,,,
+Tuvalu,2016,,,
 Uganda,2016,9.1,10.7,9.9
 Ukraine,2016,6.3,41.1,22.4
 United Arab Emirates,2016,0.7,3.6,2.8
@@ -225,6 +258,8 @@ Uzbekistan,2016,4.8,9.9,7.4
 Vanuatu,2016,2.2,6.6,4.5
 "Venezuela, RB",2016,1.1,6.3,3.7
 Vietnam,2016,3.7,10.9,7.3
+Virgin Islands (U.S.),2016,,,
+West Bank and Gaza,2016,,,
 "Yemen, Rep.",2016,5.6,11.3,8.5
 Zambia,2016,3.5,8.8,6.1
 Zimbabwe,2016,6.0,15.7,10.7
