@@ -8,15 +8,15 @@ We based our analysis on the 2019 World Happiness Report. This is an annual publ
 <br>
 We collected various information on a country level from two sources:
 <br>
--Wikipedia tables, which we web scraped using Python BeautifulSoup
--World Bank data, for which we used an API provided by the organization
+- Wikipedia tables, which we web scraped using Python BeautifulSoup
+- World Bank data, for which we used an API provided by the organization
 <br>
 Then we merged these per country information with the WHR table to create a combined database. After excluding a few rows (disputed territories, countries where a lot of information was not available, etc), we were left with 152 rows and 46 columns.
 <br>
 In the next step, we explored the data with visualization tools like scatter plots, plotly combined plots. Following that, we carried out various statistical analyses to identify variables that have a strong relationship with the happiness index. Our analysis includes:
--Welch's t-tests
--Linear regression (OLS method)
--ANOVA
+- Welch's t-tests
+- Linear regression (OLS method)
+- ANOVA
 <br>
 __Conclusion__
 There is a strong positive relationship with GDP per capita, life expectancy at birth, government type. Happiness also changes based on which continent the country is on. 
