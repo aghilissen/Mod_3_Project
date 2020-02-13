@@ -8,7 +8,10 @@ We collected various information on a country level from two main sources:
 * World Bank data were collected via the World Bank API provided in the `pandas_datareader` library  
 
 This information was then merged with the WHR table to create a combined database. Some data was excluded for different reasons: disputed territories (thus very limited data), countries where a lot of information was not available, etc. Following this process, we were left with 152 rows and 46 columns.  
-In the next step, we explored the data with visualization tools like `seaborn` scatter plots, `plotly express` combined plots, etc. Leading us to carry out various statistical analyses aim at identifying the different variables that have an impact on the happiness index. Our analysis includes:  
+
+In the next step, we explored the data with visualization tools like `seaborn` scatter plots, `plotly express` combined plots, etc.  
+
+Leading us to carry out various statistical analyses aim at identifying the different variables that have an impact on the happiness index. Our analysis includes:  
 * Welch's t-tests
 * Linear regression (OLS method)  
 * ANOVA  
@@ -22,10 +25,10 @@ A number of variables (olympic medals, alcohol consumption, cigarette consumptio
 
 ## GitHub Structure  
 * [data folder](./data/):  
-...* individual databases from various sources in `.csv` files  
-...* Jupyter Notebooks with Python code of webscraping  
-...* Jupyter Notebooks with Python code of API data requests  
-...* [finaldf.csv](./data/finaldf.csv): final combined .csv that is going to be used in the statiscial analysis  
+...Individual databases from various sources in `.csv` files  
+...Individual python webscraping script used on the Wikipedia tables  
+...Charts png exports (to cirumvent the plotly express restriction on Github)
+...[Finaldf.csv](./data/finaldf.csv): final combined .csv that is going to be used in the statiscial analysis  
 * [Wikipedia Notebook](wiki_data_combine.ipynb) : merges World Happiness Report with per country information web scraped from various Wikipedia pages  
 * [World Bank Notebook](WB.ipynb): merges combined.csv created in the previous step with information gathered from the World Bank API, creates the finaldf.csv file, saved in the data folder  
 * [Index Notebook](index.ipynb): the main results of the project, the statistical analysis of the data in finaldf.csv
