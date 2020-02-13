@@ -2,7 +2,8 @@
 
 This project is the result of the collaborative work between Antoine Ghilissen and Mate Pocs, carried out for the Flatiron School Module 3 Project. 
 <br>
-__Executive Summary__
+<br>
+## Executive Summary
 <br>
 <br>
 We based our analysis on the 2019 World Happiness Report. This is an annual publication of the U.N., aimed to capture the general happiness level of the population in individual countries.  The happiness score is based on respondents rating their own lives. We wanted to analyse which economic / demographic variables have a large impact on the happiness level of the countries. 
@@ -18,13 +19,12 @@ In the next step, we explored the data with visualization tools like scatter plo
 - Linear regression (OLS method)
 - ANOVA
 <br>
-Conclusion: 
+__Conclusion__
 There is a strong positive relationship with GDP per capita, life expectancy at birth, government type. Happiness also changes based on which continent the country is on. 
-We found various, less strong relationships with a number of variables (weight of agriculture / service industry in economy, median age of the population, suicide rates also have a slight positive relationship with happiness).
-A number of variables (olympic medals, alcohol consumption, cigarette consumption) showed no significant pattern of relationship with happiness. 
+We found various, less strong relationships with a number of variables (weight of agriculture / service industry in economy, median age of the population, suicide rates also have a slight positive relationship with happiness).A number of variables (olympic medals, alcohol consumption, cigarette consumption) showed no significant pattern of relationship with happiness.
 <br>
 <br>
-__GitHub Structure__
+## GitHub Structure
 <br>
 <br>
 - data folder: 
