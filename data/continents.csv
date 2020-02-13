@@ -46,7 +46,6 @@ Central African Republic,CAF,Africa
 Chad,TCD,Africa
 Chile,CHL,South America
 China,CHN,Asia
-"Hong Kong",HKG,Asia
 "China, Macao Special Administrative Region",MAC,Asia
 Christmas Island,CXR,Oceania
 Cocos (Keeling) Islands,CCK,Oceania
@@ -55,7 +54,6 @@ Comoros,COM,Africa
 Congo,COG,Africa
 Cook Islands,COK,Oceania
 Costa Rica,CRI,North America
-Ivory Coast,CIV,Africa
 Croatia,HRV,Europe
 Cuba,CUB,North America
 Curaçao,CUW,North America
@@ -103,6 +101,7 @@ Haiti,HTI,North America
 Heard Island and McDonald Islands,HMD,Oceania
 Holy See,VAT,Europe
 Honduras,HND,North America
+Hong Kong,HKG,Asia
 Hungary,HUN,Europe
 Iceland,ISL,Europe
 India,IND,Asia
@@ -113,6 +112,7 @@ Ireland,IRL,Europe
 Isle of Man,IMN,Europe
 Israel,ISR,Asia
 Italy,ITA,Europe
+Ivory Coast,CIV,Africa
 Jamaica,JAM,North America
 Japan,JPN,Asia
 Jersey,JEY,Europe
@@ -144,6 +144,7 @@ Mauritius,MUS,Africa
 Mayotte,MYT,Africa
 Mexico,MEX,North America
 Micronesia (Federated States of),FSM,Oceania
+Moldova,MDA,Europe
 Monaco,MCO,Europe
 Mongolia,MNG,Asia
 Montenegro,MNE,Europe
@@ -178,8 +179,6 @@ Poland,POL,Europe
 Portugal,PRT,Europe
 Puerto Rico,PRI,North America
 Qatar,QAT,Asia
-South Korea,KOR,Asia
-Moldova,MDA,Europe
 Réunion,REU,Africa
 Romania,ROU,Europe
 Russian Federation,RUS,Europe
@@ -208,6 +207,7 @@ Solomon Islands,SLB,Oceania
 Somalia,SOM,Africa
 South Africa,ZAF,Africa
 South Georgia and the South Sandwich Islands,SGS,South America
+South Korea,KOR,Asia
 South Sudan,SSD,Africa
 Spain,ESP,Europe
 Sri Lanka,LKA,Asia
@@ -217,8 +217,11 @@ Suriname,SUR,South America
 Svalbard and Jan Mayen Islands,SJM,Europe
 Sweden,SWE,Europe
 Switzerland,CHE,Europe
+Syria,SYR,Asia
 Syrian Arab Republic,SYR,Asia
+Taiwan,TWN,Asia
 Tajikistan,TJK,Asia
+Tanzania,TZA,Africa
 Thailand,THA,Asia
 Timor-Leste,TLS,Asia
 Togo,TGO,Africa
@@ -234,7 +237,6 @@ Uganda,UGA,Africa
 Ukraine,UKR,Europe
 United Arab Emirates,ARE,Asia
 United Kingdom,GBR,Europe
-Tanzania,TZA,Africa
 United States Minor Outlying Islands,UMI,Oceania
 United States of America,USA,North America
 United States Virgin Islands,VIR,North America
