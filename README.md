@@ -25,10 +25,10 @@ A number of variables (olympic medals, alcohol consumption, cigarette consumptio
 
 ## GitHub Structure  
 * [data folder](./data/):  
-...Individual databases from various sources in `.csv` files  
-...Individual python webscraping script used on the Wikipedia tables  
-...Charts png exports (to cirumvent the plotly express restriction on Github)
-...[Finaldf.csv](./data/finaldf.csv): final combined .csv that is going to be used in the statiscial analysis  
+  * Individual databases from various sources in `.csv` files  
+  * Individual python webscraping script used on the Wikipedia tables  
+  * Charts png exports (to cirumvent the plotly express restriction on Github)
+  * [Finaldf.csv](./data/finaldf.csv): final combined .csv that is going to be used in the statiscial analysis  
 * [Wikipedia Notebook](wiki_data_combine.ipynb) : merges World Happiness Report with per country information web scraped from various Wikipedia pages  
 * [World Bank Notebook](WB.ipynb): merges combined.csv created in the previous step with information gathered from the World Bank API, creates the finaldf.csv file, saved in the data folder  
 * [Index Notebook](index.ipynb): the main results of the project, the statistical analysis of the data in finaldf.csv
